@@ -150,11 +150,16 @@
 Java 예외처리문
 ---
 ArrayIndexOutOfBoundsException 
+
 - 배열을 사용시 존재하지 않는 index값을 호출하면 발생한다.
+
 NumberFormatException
+
 - 숫자로 변경 할 수 없는 문자열을 변경하려고 하는 경우 발생한다.
 Exception
+
 - 위 두개가 형태가 아닌 경우의 모든 에러를 의미한다.
+
 [출처] [JAVA] 예외처리 - try~catch, throws|작성자 꿈의인생
 
 ---
